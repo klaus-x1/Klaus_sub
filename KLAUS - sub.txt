@@ -1,5 +1,5 @@
 trojan://1@KLAUS:1?security=tls&headerType=none&type=tcp#%E2%9C%A8%20KLAUS%20Test%20sub%20%F0%9F%92%AB%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%DB%8C%DA%A9%D8%A8%D8%A7%D8%B1%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%A7%D9%BE%D8%AF%DB%8C%D8%AA%20%D8%B4%D9%88%D8%AF
 vless://9e446d94-dbae-7333-99d0-1d07d2066724@De.zeroboostspeed.org:110?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#Klaus%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://9e446d94-dbae-7333-99d0-1d07d2066724@fr.zeroboostspeed.org:1231?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#Klaus%20%F0%9F%87%B2%F0%9F%87%AB%20France
-vless://9e446d94-dbae-7333-99d0-1d07d2066724@Uk.zeroboostspeed.org:5291?security=&encryption=none&host=Soft98.ir&headerType=http&type=tcp#Klaus%20%F0%9F%87%AC%F0%9F%87%A7%20Uk
-vless://b56b1744-4cd3-458e-af6b-f6e9207d4293@1-3.pro:6996?security=&encryption=none&type=ws#Klaus%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://9e446d94-dbae-7333-99d0-1d07d2066724@Dc2.zeroboostspeed.org:2698?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#Klaus%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://b56b1744-4cd3-458e-af6b-f6e9207d4293@109.95.66.100:6996?security=none&encryption=none&type=ws#Klaus%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
