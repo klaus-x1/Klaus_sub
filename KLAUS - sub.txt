@@ -2,4 +2,4 @@ trojan://1@KLAUS:1?security=tls&headerType=none&type=tcp#%E2%9C%A8%20KLAUS%20Tes
 vless://9e446d94-dbae-7333-99d0-1d07d2066724@De.zeroboostspeed.org:110?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#Klaus%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://9e446d94-dbae-7333-99d0-1d07d2066724@fr.zeroboostspeed.org:1231?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#Klaus%20%F0%9F%87%B2%F0%9F%87%AB%20France
 hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.bing.com#Klaus%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b56b1744-4cd3-458e-af6b-f6e9207d4293@109.95.66.100:6996?security=none&encryption=none&type=ws#Klaus%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.7.191:80?security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#KLAUS%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28%20%E2%80%8C%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%29
