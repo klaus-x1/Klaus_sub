@@ -1,5 +1,12 @@
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@5.253.31.13:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&headerType=none&fp=random&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%E2%9C%85
-vless://InternetAzadRobot@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#%E2%9C%85
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?security=tls&encryption=none&insecure=1&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%E2%9C%85
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?security=tls&encryption=none&insecure=1&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%E2%9C%85
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.149.54:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?path=%2Fws-vlees&security=none&encryption=none&host=app3.app-all-ccoo.com&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.speedtest.net:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
