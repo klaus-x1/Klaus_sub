@@ -10,3 +10,4 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=%2F
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
+vless://OwLimbow@31.56.117.234:80?path=%2Fws&security=none&encryption=none&host=31.56.117.234&type=ws#%E2%9C%A8%20KLAUS%20%F0%9F%8C%9F
